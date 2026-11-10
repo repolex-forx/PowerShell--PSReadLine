@@ -1,0 +1,11 @@
+{
+  "org": "PowerShell",
+  "repo": "PSReadLine",
+  "versions": [
+    {
+      "commit": "a2d143f78904f8a954f8d4b055e55ceca6939bfc",
+      "tag": "",
+      "parsed_at": "2026-11-10T04:20:12.730344+00:00"
+    }
+  ]
+}
