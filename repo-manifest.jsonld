@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PowerShell/PSReadLine/commit/a2d143f78904f8a954f8d4b055e55ceca6939bfc",
       "git:hexsha": "a2d143f78904f8a954f8d4b055e55ceca6939bfc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/PowerShell/PSReadLine/commit/b1cd0be3be5e2e3ad2c367eb47a35fe4e35c8aea",

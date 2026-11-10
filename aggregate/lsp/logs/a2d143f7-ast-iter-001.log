@@ -1,0 +1,7 @@
+[2026-11-10T04:17:13Z] === AST ITERATION 1 START | repo=PowerShell/PSReadLine sha=a2d143f7 ===
+[2026-11-10T04:17:13Z] [iter=1] PHASE START: ast repo=PowerShell/PSReadLine sha=a2d143f7
+[2026-11-10T04:17:13Z] [iter=1] Building AST aggregate chunks
+[2026-11-10T04:18:58Z] [iter=1] AST chunks built count=1 triples=1232141
+[2026-11-10T04:18:58Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/a2d143f78904f8a954f8d4b055e55ceca6939bfc/.complete
+[2026-11-10T04:18:58Z] [iter=1] PHASE END: ast elapsed_s=105 elapsed_min=1.7
+[2026-11-10T04:18:58Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
